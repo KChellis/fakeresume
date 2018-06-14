@@ -1,6 +1,6 @@
 # _Resume_
 
-### _This is a practice site for a kickass resume. 3.13.18_
+### _This is a practice site for a resume. 3.13.18_
 
 ### By _**Kristen Chellis and Dawn Mott**_
 
@@ -20,7 +20,7 @@ _There are no known bugs at this point, but if you run into any errors don't hes
 
 ## Support and Contact Details
 
-_Please contact Kristen and Dawn at kd@kd.net._
+_Please contact Kristen and Dawn at peanutster@gmail.com_
 
 ## Technologies Used
 
